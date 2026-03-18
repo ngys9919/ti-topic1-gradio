@@ -1,0 +1,10 @@
+keras>=3.0.0
+torch
+torchvision
+gradio
+numpy
+matplotlib
+seaborn
+scikit-learn
+pillow
+python-dotenv
